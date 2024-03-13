@@ -15,7 +15,7 @@
     {"id":"1",
       "title":"Mountcare",
       "description":"IGBC - Swastgram Healthcare Competition",
-      "imageImport":"https://github.com/mdfaizs111/Aard-Studio/blob/main/assests/00%20igbc/EXT%204_0020.jpg?raw=true","url":"blog/firstblog"
+      "imageSrc":"https://github.com/mdfaizs111/Aard-Studio/blob/main/assests/00%20igbc/EXT%204_0020.jpg?raw=true","url":"blog/firstblog"
     },
     {"id":"2",
       "title":"Europa Oasis",
