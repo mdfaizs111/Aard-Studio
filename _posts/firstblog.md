@@ -1,20 +1,19 @@
 ---
-date: '2022-07-15T11:50:54.000Z'
-title: Amazing Blog
-tagline: This is a Tagline If you want to add.
+date: 'z'
+title: Mountcare
+tagline: IGBC - Swastgram Healthcare Competition.
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
+ Rural healthcare is one of the biggest challenges India has been facingfor the last few decades. Healthcare is every individual’s right but lack of quality infrastructure, limited access to basic medicines and medical facilities and dearth of qualified medicos and associated professionals and technicians represses its reach to 60% of the Indian population who live in rural areas. In most villages, the sick travel to the closest town to access quality healthcare and those who cannot afford this option have hardly any means of taking care of their well-being and that of their loved ones.
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://github.com/mdfaizs111/Aard-Studio/blob/main/assests/00%20igbc/ward.jpg?raw=true
 ---
 
-# Heading One
+# Introduction
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+**This project focuses on creating a state-of-the-art community health center, encompassing a 20-50 bedded hospital and an ancillary function aligned with the unique needs and aspirations of the targeted village. The design emphasizes inclusive by integrating local construction practices and leveraging technology to optimize healthcare services. Additionally, community engagement will play a crucial role in dispelling any fears associated with health centers, fostering transparency, and ensuring that the facility aligns seamlessly with the cultural and social fabric of the community. of the local population while dispelling any apprehensions surrounding healthcare institutions.
+image: >-
+ https://github.com/mdfaizs111/Aard-Studio/blob/main/assests/00%20igbc/int1.jpg?raw=true
+---
 ## This is Heading Two
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
