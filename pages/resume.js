@@ -106,6 +106,7 @@ const Resume = () => {
                           </li>
                         ))}
                       </ul>
+                        </h2>
                     </div>
                   )}
 
