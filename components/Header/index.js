@@ -41,7 +41,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 )}
 
                 {/* Menu icon */}
-                <Popover.Button>
+                <Popover.Button&gt;
                   <img
                     className="h-5"
                     src={`/images/${
